@@ -1,0 +1,29 @@
+# Aufgabenstellungen ignorieren
+**/Aufgabenstellung*
+**/Aufgabe*.pdf
+**/Aufgabe*.txt
+**/Aufgabe*.md
+**/Aufgabe*.docx
+**/Aufgabe*.doc
+
+# Kompilierte Dateien
+**/*.class
+
+# Pakete und Build-Verzeichnisse
+**/target/
+**/build/
+**/bin/
+
+# IDE-spezifische Dateien
+**/.idea/
+**/.vscode/
+**/.settings/
+**/.project
+**/.classpath
+**/nbproject/
+
+# Logs und temporäre Dateien
+**/logs/
+**/temp/
+**/*.log
+**/*.tmp
